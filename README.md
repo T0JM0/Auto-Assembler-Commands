@@ -12,8 +12,7 @@ This repository provides a comprehensive list of all the Auto Assembler commands
 1. [Introduction](#introduction)
 2. [Commands List](#commands-list)
 3. [Usage Examples](#usage-examples)
-4. [Contribution](#contribution)
-5. [Disclaimer](#disclaimer)
+4. [Disclaimer](#disclaimer)
 
 ## Introduction
 
@@ -346,12 +345,6 @@ align(byte_size)
 ```autoit
 defineBytes(labelname, "array_of_bytes")
 ```
-
-Please refer to each specific section above for more detailed information and usage examples of each Auto Assembler command.
-
-## Contribution
-
-Contributions to this repository are highly appreciated! If you have any suggestions, improvements, or additional information related to the Auto Assembler commands, please feel free to create pull requests or open issues. Let's collaborate to make this resource even more valuable for the Cheat Engine community.
 
 ## Disclaimer
 
