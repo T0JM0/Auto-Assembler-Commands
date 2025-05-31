@@ -346,6 +346,16 @@ align(byte_size)
 defineBytes(labelname, "array_of_bytes")
 ```
 
+## References and Additional Resources
+
+For more in-depth information about Cheat Engine and its Auto Assembler, consider exploring the following resources:
+
+- **[Cheat Engine Official Documentation](https://www.cheatengine.org/docs/)**: The official documentation provides extensive details on Cheat Engine's capabilities and features.
+- **[Cheat Engine Forum](https://forum.cheatengine.org/)**: A community-driven forum where you can discuss issues, seek advice, and share knowledge with other Cheat Engine users.
+- **[Guided Hacking Tutorials](https://guidedhacking.com/)**: A collection of tutorials and resources focusing on reverse engineering, memory hacking, and Cheat Engine scripting.
+- **[Cheat Engine Tutorials on YouTube](https://www.youtube.com/results?search_query=cheat+engine+tutorial)**: Numerous video tutorials explaining various Cheat Engine features and scripting examples.
+- **[Reverse Engineering Stack Exchange](https://reverseengineering.stackexchange.com/)**: A Q&A platform dedicated to reverse engineering, debugging, and memory manipulation techniques.
+
 ## Disclaimer
 
 Please note that while Cheat Engine and its Auto Assembler can be valuable tools for learning and experimentation, using them for unauthorized or illegal purposes may violate the terms of service of certain software or games. 
